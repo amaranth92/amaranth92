@@ -4,18 +4,27 @@ Web Programmer with 6+ years of experience in Java/Spring-based enterprise web s
 
 I focus on backend/API development, database work, maintenance, deployment support, and practical service improvements. I also build AI and automation side projects to keep learning through working products, not just tutorials.
 
+Currently open to Web Programmer / Backend Developer roles, especially Java, Spring Boot, SQL, API integration, operational improvement, and practical AI-assisted product workflows.
+
 ## Portfolio
 
 - Portfolio: https://amaranth92.github.io/portfolio-town/
 - Public project notes: https://github.com/amaranth92/portfolio-projects
 - Aussie Pus Studio: https://aussie-pus.pages.dev/
 
-## AI And Automation Projects
+## Current AI And Automation Work
 
 - [Decody](https://github.com/amaranth92/portfolio-projects/blob/main/docs/decody.md): AI app concept for pet behavior translation from photo, video, and audio inputs, with subtitle and voice dubbing workflows.
 - [Nagalttae](https://github.com/amaranth92/portfolio-projects/blob/main/docs/nagalttae.md): Toss In-App weather preparation mini app using location and weather data.
 - [Photo EXIF Sorter](https://github.com/amaranth92/portfolio-projects/blob/main/docs/photo-exif-sorter.md): Python automation for organizing 10,000+ travel photos by date and metadata.
 - [AI Automation Notes](https://github.com/amaranth92/portfolio-projects/blob/main/docs/ai-automation.md): Python, Gemini API, Blogger API, Naver API, and Selenium workflow automation.
+
+## Recruiter Signals
+
+- 6+ years maintaining and improving business-critical web systems.
+- Comfortable with legacy migration work, SQL-heavy debugging, deployment support, and operating existing services carefully.
+- Uses AI tools for requirement breakdown, prototyping, refactoring, documentation, and review while keeping final engineering decisions under human control.
+- Side projects show mobile-first UX, API integration, automation, and product thinking beyond routine CRUD work.
 
 ## Career Focus
 
